@@ -17,6 +17,4 @@ spec:
       containers:
         - name: hello-world
           image: hello-world
-          ports:
-            - containerPort: 81
-              protocol: TCP
+       
